@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Intermediate_Module_01</Name>
+    <Assembly>Intermediate_Module_01.dll</Assembly>
+    <FullClassName>Intermediate_Module_01.App</FullClassName>
+    <ClientId>A362F69B-284C-4248-BED5-200AEAE5046C</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>

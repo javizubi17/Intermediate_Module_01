@@ -1,0 +1,8 @@
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\bin\Debug\2022\Intermediate_Module_01.dll
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\bin\Debug\2022\Intermediate_Module_01.pdb
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\obj\2022Debug\Intermediate_Module_01.csproj.AssemblyReference.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\obj\2022Debug\Intermediate_Module_01.Properties.Resources.resources
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\obj\2022Debug\Intermediate_Module_01.csproj.GenerateResource.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\obj\2022Debug\Intermediate_Module_01.csproj.CoreCompileInputs.cache
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\obj\2022Debug\Intermediate_Module_01.dll
+C:\Dropbox (MonkeyFlow)\01_TRABAJO\24_REVIT-Coding\00-VisualStudio Repos\Intermediate_Module_01\obj\2022Debug\Intermediate_Module_01.pdb
